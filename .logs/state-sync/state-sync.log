@@ -1,0 +1,274 @@
+{"level":"info","ts":1754836073.7162035,"caller":"cmd/pull.go:12","msg":"Pulling state from remote storage"}
+{"level":"info","ts":1754836073.716321,"caller":"cmd/pull.go:16","msg":"Pull is not allowed, waiting for config change"}
+{"level":"warn","ts":1754836073.717261,"caller":"utils/utils.go:23","msg":"Failed to fetch CDP WebSocket URL, will retry","error":"Get \"http://localhost:9222/json/version\": dial tcp [::1]:9222: connect: connection refused"}
+{"level":"warn","ts":1754836074.2186425,"caller":"utils/utils.go:23","msg":"Failed to fetch CDP WebSocket URL, will retry","error":"Get \"http://localhost:9222/json/version\": dial tcp [::1]:9222: connect: connection refused"}
+{"level":"warn","ts":1754836074.7204492,"caller":"utils/utils.go:23","msg":"Failed to fetch CDP WebSocket URL, will retry","error":"Get \"http://localhost:9222/json/version\": dial tcp [::1]:9222: connect: connection refused"}
+{"level":"warn","ts":1754836075.221859,"caller":"utils/utils.go:23","msg":"Failed to fetch CDP WebSocket URL, will retry","error":"Get \"http://localhost:9222/json/version\": dial tcp [::1]:9222: connect: connection refused"}
+{"level":"warn","ts":1754836075.723083,"caller":"utils/utils.go:23","msg":"Failed to fetch CDP WebSocket URL, will retry","error":"Get \"http://localhost:9222/json/version\": dial tcp [::1]:9222: connect: connection refused"}
+{"level":"warn","ts":1754836076.224581,"caller":"utils/utils.go:23","msg":"Failed to fetch CDP WebSocket URL, will retry","error":"Get \"http://localhost:9222/json/version\": dial tcp [::1]:9222: connect: connection refused"}
+{"level":"info","ts":1754836076.8505673,"caller":"watcher/cdp_watcher.go:99","msg":"Watching targets"}
+{"level":"info","ts":1754836077.0179834,"caller":"watcher/cdp_watcher.go:117","msg":"Initial target found","targetID":"D0AD40F634AA967955E298468C51FE87"}
+{"level":"info","ts":1754836077.0200243,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"D0AD40F634AA967955E298468C51FE87"}
+{"level":"info","ts":1754836079.0215113,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754836624.855316,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754836625.7378469,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754836631.7734299,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754836781.1401293,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754836818.4921446,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754836835.6176937,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754836835.867887,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754836912.4304092,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754836912.6575506,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837418.0686955,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837418.2770739,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837418.2923968,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837419.5150766,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754837420.8683896,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754837456.9024734,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837457.135168,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837457.1491516,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+2025/08/10 10:50:57 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1754837457.1893117,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837457.5685809,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754837458.5704951,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754837459.5894337,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754837465.1633856,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837465.58027,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754837466.206261,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754837475.0188963,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1754837475.5977569,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1754837476.087642,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755002717.7182095,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755002718.786586,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755002748.9870253,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755002749.314499,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755002749.3284984,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755002749.8583584,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755002750.4274006,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755002751.9045222,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755003084.8490398,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755003085.2558682,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755003085.2700071,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755003085.3364215,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755003085.89592,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755003086.8722255,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755003087.9203105,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755003106.309802,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755003106.9541876,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755003107.3680449,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755128514.8183093,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755128515.0691557,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755128521.891341,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755129092.2294836,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+2025/08/13 19:51:32 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755129092.4958322,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755131527.057263,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+2025/08/13 20:32:07 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755131534.8842447,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755133597.6833239,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+2025/08/13 21:06:37 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755133597.9632945,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755133605.409998,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755136249.0484107,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+2025/08/13 21:50:49 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755136249.6211555,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755136289.567382,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137529.3877418,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137531.9753947,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137531.9914987,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137532.8694398,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137532.8965724,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137533.8984938,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137534.796415,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137540.8408113,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137540.9117513,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137541.8781137,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137548.9872217,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137549.8159833,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137550.819726,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137747.7981348,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137748.5227463,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137748.538353,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137749.3951552,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137751.1236615,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137879.176139,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137880.4231431,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137880.4411762,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137880.5520747,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137881.5796068,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137883.1042702,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137891.6012254,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137891.9298503,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137892.930588,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137911.9420445,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137912.6337693,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137913.0314236,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137943.6509376,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755137943.6724377,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137944.674144,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755137944.7263498,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755138973.3508646,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755138973.6910832,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755138973.705518,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755138974.4337351,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755138974.460923,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755138975.4350812,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755138976.4896402,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755139031.51265,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755139031.833506,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755139032.8385808,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141242.2941177,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141243.0118527,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141243.025413,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141243.1725996,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141244.4394567,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141245.6158617,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141267.4785812,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141268.40973,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141269.416164,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141441.4876468,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141441.8798373,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141441.8933437,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141442.7018404,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141442.7918565,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141444.7268631,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141477.8379624,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141478.6043684,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141478.6180303,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141478.7541962,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141479.8586555,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141480.4063587,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141501.5159206,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755141501.8844838,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141502.6413584,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141510.9027767,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141511.243708,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755141512.2511127,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193596.14317,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193597.113961,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193597.1279166,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+2025/08/14 13:46:37 ERROR: received DOM.documentUpdated when there's no top-level frame
+2025/08/14 13:46:37 ERROR: received DOM.documentUpdated when there's no top-level frame
+2025/08/14 13:46:37 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755193597.2912078,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193598.2907724,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193599.7792125,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193606.742946,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193607.6990192,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193607.702143,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193607.8324754,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193608.309691,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193610.2876635,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193617.0480995,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193618.0366251,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193618.052375,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193618.2233896,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193619.3263073,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193620.1253803,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193627.338417,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193627.8725066,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193628.8815396,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193659.6615891,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193660.4645073,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193660.7575223,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193799.913497,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193801.1864238,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193801.1999578,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+2025/08/14 13:50:01 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755193801.3739164,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"info","ts":1755193801.66824,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193802.6700778,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193803.7528975,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755193819.6332045,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"940297F9921112EFB28B98C1585587B9"}
+{"level":"error","ts":1755193819.6393754,"caller":"watcher/cdp_watcher.go:246","msg":"Error enabling DOM storage events for target","targetID":"940297F9921112EFB28B98C1585587B9","error":"No target with given id found (-32602)","stacktrace":"gitlab.monica.cn/vida/manus-sandbox/sandbox/state-sync/watcher.(*CDPWatcher).watchLocalStorageEvents\n\t/data/gitlab-runner/builds/LVZ2kX5vG/0/vida/manus-sandbox/state-sync/watcher/cdp_watcher.go:246"}
+{"level":"error","ts":1755193819.6398835,"caller":"states/localstorage.go:74","msg":"Failed to set localStorage item","key":"AMP_unsent_46ac3f9abb","error":"No target with given id found (-32602)","stacktrace":"gitlab.monica.cn/vida/manus-sandbox/sandbox/state-sync/states.(*LocalStorage).SetupWatcher.func1\n\t/data/gitlab-runner/builds/LVZ2kX5vG/0/vida/manus-sandbox/state-sync/states/localstorage.go:74"}
+{"level":"info","ts":1755194009.07386,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194016.0711403,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194016.2388577,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194016.253193,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+2025/08/14 13:53:36 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755194016.2817593,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194016.9495742,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194017.738742,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194018.8029165,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194054.5730343,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194055.0469105,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194055.6297617,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194063.7889106,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194064.059056,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194064.8200893,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194325.7990222,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194326.2324777,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194326.2462733,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+2025/08/14 13:58:46 ERROR: received DOM.documentUpdated when there's no top-level frame
+2025/08/14 13:58:46 ERROR: received DOM.documentUpdated when there's no top-level frame
+2025/08/14 13:58:46 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755194326.7371595,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194327.38455,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194328.724671,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194337.603774,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194337.9002538,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194337.902042,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+2025/08/14 13:58:57 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755194337.938521,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194338.400155,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194340.3413558,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194538.3561895,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194538.8356695,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194538.849919,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194538.9406235,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755194539.6666849,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194540.297671,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755194541.2953398,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755337260.130534,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755337291.6557133,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755337291.8608687,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755337316.2635548,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755337722.3748908,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+2025/08/16 05:48:42 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755337722.6125994,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755337788.8630366,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755337789.2192924,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755337797.3282373,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755338378.8889394,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755338451.147892,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755338451.4015772,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755338513.3822129,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755338699.189584,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755338699.4678524,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755338706.2604034,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755338983.2334912,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339126.6986508,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339135.1871119,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+2025/08/16 06:12:15 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755339135.5249755,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339143.6949039,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339236.9680414,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755339237.9696443,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339249.2861996,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339363.6040118,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339371.599204,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339372.0090013,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755339380.3725998,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755393119.584905,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+2025/08/16 21:12:00 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755393120.5576627,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755393128.9445925,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755393242.3743894,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+2025/08/16 21:14:02 ERROR: received DOM.documentUpdated when there's no top-level frame
+{"level":"info","ts":1755393242.8089314,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755393250.3783507,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755393273.820303,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755393274.8308635,"caller":"cmd/run.go:71","msg":"Put is not allowed"}
+{"level":"info","ts":1755393282.143635,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"info","ts":1755433994.5075903,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"D87FF137A2930DB46E3270C1BE305327"}
+{"level":"info","ts":1755433994.5089822,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"D87FF137A2930DB46E3270C1BE305327"}
+{"level":"info","ts":1755433994.5105486,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"D87FF137A2930DB46E3270C1BE305327"}
+{"level":"info","ts":1755434025.1725554,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"9A8958100C7D261D430076C02151FE54"}
+{"level":"error","ts":1755434025.1783247,"caller":"states/localstorage.go:74","msg":"Failed to set localStorage item","key":"token","error":"No target with given id found (-32602)","stacktrace":"gitlab.monica.cn/vida/manus-sandbox/sandbox/state-sync/states.(*LocalStorage).SetupWatcher.func1\n\t/data/gitlab-runner/builds/LVZ2kX5vG/0/vida/manus-sandbox/state-sync/states/localstorage.go:74"}
+{"level":"error","ts":1755434025.1794348,"caller":"watcher/cdp_watcher.go:246","msg":"Error enabling DOM storage events for target","targetID":"9A8958100C7D261D430076C02151FE54","error":"No target with given id found (-32602)","stacktrace":"gitlab.monica.cn/vida/manus-sandbox/sandbox/state-sync/watcher.(*CDPWatcher).watchLocalStorageEvents\n\t/data/gitlab-runner/builds/LVZ2kX5vG/0/vida/manus-sandbox/state-sync/watcher/cdp_watcher.go:246"}
+{"level":"info","ts":1755434027.325872,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"D87FF137A2930DB46E3270C1BE305327"}
+{"level":"error","ts":1755434027.3277776,"caller":"watcher/cdp_watcher.go:246","msg":"Error enabling DOM storage events for target","targetID":"D87FF137A2930DB46E3270C1BE305327","error":"No target with given id found (-32602)","stacktrace":"gitlab.monica.cn/vida/manus-sandbox/sandbox/state-sync/watcher.(*CDPWatcher).watchLocalStorageEvents\n\t/data/gitlab-runner/builds/LVZ2kX5vG/0/vida/manus-sandbox/state-sync/watcher/cdp_watcher.go:246"}
+{"level":"info","ts":1755434028.23623,"caller":"watcher/cdp_watcher.go:143","msg":"Target info changed","targetID":"D0AD40F634AA967955E298468C51FE87"}
+{"level":"error","ts":1755434028.2401385,"caller":"watcher/cdp_watcher.go:246","msg":"Error enabling DOM storage events for target","targetID":"D0AD40F634AA967955E298468C51FE87","error":"No target with given id found (-32602)","stacktrace":"gitlab.monica.cn/vida/manus-sandbox/sandbox/state-sync/watcher.(*CDPWatcher).watchLocalStorageEvents\n\t/data/gitlab-runner/builds/LVZ2kX5vG/0/vida/manus-sandbox/state-sync/watcher/cdp_watcher.go:246"}
+{"level":"error","ts":1755434030.6106005,"caller":"watcher/cdp_watcher.go:300","msg":"Failed to get current state","error":"context canceled","stacktrace":"gitlab.monica.cn/vida/manus-sandbox/sandbox/state-sync/watcher.(*CDPWatcher).watchCookies\n\t/data/gitlab-runner/builds/LVZ2kX5vG/0/vida/manus-sandbox/state-sync/watcher/cdp_watcher.go:300"}

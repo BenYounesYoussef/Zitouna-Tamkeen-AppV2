@@ -1,0 +1,6 @@
+[submodule "zitouna-backend"]
+	path = zitouna-backend
+	url = https://github.com/BenYoussef/Zitouna-Tamkeen-AppV2.git
+[submodule "zitouna-tamkeen-app"]
+	path = zitouna-tamkeen-app
+	url = https://github.com/BenYoussef/Zitouna-Tamkeen-AppV2.git

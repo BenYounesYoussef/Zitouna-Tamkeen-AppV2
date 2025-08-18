@@ -641,3 +641,46 @@ export OPENAI_BASE_URL="https://api.manus.im/api/llm-proxy/v1"
 ps() { /bin/ps "$@" | grep -v -E '(start_server\.py|upgrade\.py|supervisor)' || true; }
 pgrep() { /usr/bin/pgrep "$@" | while read pid; do [ -n "$pid" ] && cmdline=$(/bin/ps -p $pid -o command= 2>/dev/null) && ! echo "$cmdline" | grep -q -E '(start_server\.py|upgrade\.py|supervisor)' && echo "$pid"; done; }
 cd /home/ubuntu/zitouna-tamkeen-app/dist && cd /home/ubuntu/zitouna-tamkeen-app/dist && python3 -m http.server 8088 &
+export PS1="[CMD_BEGIN]\n\u@\h:\w\n[CMD_END]"; export PS2=""
+export TERM=xterm-256color
+export OPENAI_API_KEY="sk-nh54urno3XzACTfDUqBvea"
+export OPENAI_API_BASE="https://api.manus.im/api/llm-proxy/v1"
+export OPENAI_BASE_URL="https://api.manus.im/api/llm-proxy/v1"
+ps() { /bin/ps "$@" | grep -v -E '(start_server\.py|upgrade\.py|supervisor)' || true; }
+pgrep() { /usr/bin/pgrep "$@" | while read pid; do [ -n "$pid" ] && cmdline=$(/bin/ps -p $pid -o command= 2>/dev/null) && ! echo "$cmdline" | grep -q -E '(start_server\.py|upgrade\.py|supervisor)' && echo "$pid"; done; }
+cd /home/ubuntu/zitouna-tamkeen-app && cd /home/ubuntu/zitouna-tamkeen-app && npm run build
+export PS1="[CMD_BEGIN]\n\u@\h:\w\n[CMD_END]"; export PS2=""
+export TERM=xterm-256color
+export OPENAI_API_KEY="sk-nh54urno3XzACTfDUqBvea"
+export OPENAI_API_BASE="https://api.manus.im/api/llm-proxy/v1"
+export OPENAI_BASE_URL="https://api.manus.im/api/llm-proxy/v1"
+ps() { /bin/ps "$@" | grep -v -E '(start_server\.py|upgrade\.py|supervisor)' || true; }
+pgrep() { /usr/bin/pgrep "$@" | while read pid; do [ -n "$pid" ] && cmdline=$(/bin/ps -p $pid -o command= 2>/dev/null) && ! echo "$cmdline" | grep -q -E '(start_server\.py|upgrade\.py|supervisor)' && echo "$pid"; done; }
+export PS1="[CMD_BEGIN]\n\u@\h:\w\n[CMD_END]"; export PS2=""
+export TERM=xterm-256color
+export OPENAI_API_KEY="sk-nh54urno3XzACTfDUqBvea"
+export OPENAI_API_BASE="https://api.manus.im/api/llm-proxy/v1"
+export OPENAI_BASE_URL="https://api.manus.im/api/llm-proxy/v1"
+ps() { /bin/ps "$@" | grep -v -E '(start_server\.py|upgrade\.py|supervisor)' || true; }
+pgrep() { /usr/bin/pgrep "$@" | while read pid; do [ -n "$pid" ] && cmdline=$(/bin/ps -p $pid -o command= 2>/dev/null) && ! echo "$cmdline" | grep -q -E '(start_server\.py|upgrade\.py|supervisor)' && echo "$pid"; done; }
+cd /home/ubuntu/zitouna-tamkeen-app && cd /home/ubuntu/zitouna-tamkeen-app && npm run build
+export PS1="[CMD_BEGIN]\n\u@\h:\w\n[CMD_END]"; export PS2=""
+export TERM=xterm-256color
+export OPENAI_API_KEY="sk-nh54urno3XzACTfDUqBvea"
+export OPENAI_API_BASE="https://api.manus.im/api/llm-proxy/v1"
+export OPENAI_BASE_URL="https://api.manus.im/api/llm-proxy/v1"
+ps() { /bin/ps "$@" | grep -v -E '(start_server\.py|upgrade\.py|supervisor)' || true; }
+pgrep() { /usr/bin/pgrep "$@" | while read pid; do [ -n "$pid" ] && cmdline=$(/bin/ps -p $pid -o command= 2>/dev/null) && ! echo "$cmdline" | grep -q -E '(start_server\.py|upgrade\.py|supervisor)' && echo "$pid"; done; }
+cd /home/ubuntu && ps aux | grep "python3 -m http.server 8088" | grep -v grep | awk '{print $2}'
+cd /home/ubuntu && kill 32865
+cd /home/ubuntu && ps aux | grep "python3 -m http.server 8089" | grep -v grep | awk \'{print $2}\'
+cd /home/ubuntu && ps aux | grep "python3 -m http.server 8089" | grep -v grep | awk '{print $2}'
+cd /home/ubuntu && kill 112245
+export PS1="[CMD_BEGIN]\n\u@\h:\w\n[CMD_END]"; export PS2=""
+export TERM=xterm-256color
+export OPENAI_API_KEY="sk-nh54urno3XzACTfDUqBvea"
+export OPENAI_API_BASE="https://api.manus.im/api/llm-proxy/v1"
+export OPENAI_BASE_URL="https://api.manus.im/api/llm-proxy/v1"
+ps() { /bin/ps "$@" | grep -v -E '(start_server\.py|upgrade\.py|supervisor)' || true; }
+pgrep() { /usr/bin/pgrep "$@" | while read pid; do [ -n "$pid" ] && cmdline=$(/bin/ps -p $pid -o command= 2>/dev/null) && ! echo "$cmdline" | grep -q -E '(start_server\.py|upgrade\.py|supervisor)' && echo "$pid"; done; }
+cd /home/ubuntu/zitouna-tamkeen-app/dist && cd /home/ubuntu/zitouna-tamkeen-app/dist && python3 -m http.server 8089 &
